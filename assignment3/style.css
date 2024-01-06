@@ -46,7 +46,7 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
 }
-
+/* custom styles */
 header{
     background-color: rgba(205, 126, 232, 0.772);
     height: 40px;
